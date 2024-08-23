@@ -51,12 +51,12 @@ const LaunchingRocket=()=>{
       img.setAttribute("class", "chandrayaan");
       img.src="./images/chandrayaan.png";
       chandrayaan.appendChild(img)
-      autoTyping("chandrayaan satellite has launched from india ..","write", 100);
+      autoTyping("chandrayaan satellite has launched from INDIA ..","write", 100);
 
   }, 11000);
 
   setTimeout(()=>{
-    autoTyping("chandrayaan rocket one ejected ..","write1", 100);
+    autoTyping("chandrayaan-3 ejected ..","write1", 100);
 
   },20000)
   setTimeout(()=>{
